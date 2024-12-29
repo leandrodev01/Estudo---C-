@@ -1,0 +1,14 @@
+c:\Users\Família\Documents\Curso C#\Calculator\bin\Debug\net9.0\Calculator.exe
+c:\Users\Família\Documents\Curso C#\Calculator\bin\Debug\net9.0\Calculator.deps.json
+c:\Users\Família\Documents\Curso C#\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+c:\Users\Família\Documents\Curso C#\Calculator\bin\Debug\net9.0\Calculator.dll
+c:\Users\Família\Documents\Curso C#\Calculator\bin\Debug\net9.0\Calculator.pdb
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\Calculator.dll
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\Calculator.pdb
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+c:\Users\Família\Documents\Curso C#\Calculator\obj\Debug\net9.0\ref\Calculator.dll
